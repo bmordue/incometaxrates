@@ -1,1 +1,204 @@
-{}
+{
+    "personal_allowances": [
+        {
+            "title": "Personal Allowances",
+            "data": {
+                "Personal Allowance": {
+                    "2025 to 2026": "£12,570",
+                    "2024 to 2025": "£12,570",
+                    "2023 to 2024": "£12,570",
+                    "2022 to 2023": "£12,570"
+                },
+                "Income limit for Personal Allowance": {
+                    "2025 to 2026": "£100,000",
+                    "2024 to 2025": "£100,000",
+                    "2023 to 2024": "£100,000",
+                    "2022 to 2023": "£100,000"
+                }
+            }
+        },
+        {
+            "title": "Personal Allowances for people born before 6 April 1948",
+            "data": {
+                "Personal Allowance for people born between 6 April 1938 and 5 April 1948": {
+                    "2015 to 2016": "£10,600",
+                    "2014 to 2015": "£10,500",
+                    "2013 to 2014": "£10,500"
+                },
+                "Personal Allowance for people born before 6 April 1938": {
+                    "2015 to 2016": "£10,660",
+                    "2014 to 2015": "£10,660",
+                    "2013 to 2014": "£10,660"
+                },
+                "Income limit for Personal Allowance": {
+                    "2015 to 2016": "£27,700",
+                    "2014 to 2015": "£27,000",
+                    "2013 to 2014": "£26,100"
+                }
+            }
+        },
+        {
+            "title": "Other allowances",
+            "data": {
+                "Married Couple’s Allowance — maximum amount": {
+                    "2025 to 2026": "£11,270",
+                    "2024 to 2025": "£11,080",
+                    "2023 to 2024": "£10,375",
+                    "2022 to 2023": "£9,415"
+                },
+                "Married Couple’s Allowance — minimum amount": {
+                    "2025 to 2026": "£4,360",
+                    "2024 to 2025": "£4,280",
+                    "2023 to 2024": "£4,010",
+                    "2022 to 2023": "£3,640"
+                },
+                "Blind Person’s Allowance": {
+                    "2025 to 2026": "£3,130",
+                    "2024 to 2025": "£3,070",
+                    "2023 to 2024": "£2,870",
+                    "2022 to 2023": "£2,600"
+                }
+            }
+        }
+    ],
+    "tax_rates_and_bands": {
+        "england_ni_wales": [
+            {
+                "title": "England, Northern Ireland and Wales",
+                "data": {
+                    "Starting rate for savings": {
+                        "Rate": "0%",
+                        "2025 to 2026": "Up to £5,000",
+                        "2024 to 2025": "Up to £5,000",
+                        "2023 to 2024": "Up to £5,000",
+                        "2022 to 2023": "Up to £5,000"
+                    },
+                    "Basic rate": {
+                        "Rate": "20%",
+                        "2025 to 2026": "Up to £37,700",
+                        "2024 to 2025": "Up to £37,700",
+                        "2023 to 2024": "Up to £37,700",
+                        "2022 to 2023": "Up to £37,700"
+                    },
+                    "Higher rate": {
+                        "Rate": "40%",
+                        "2025 to 2026": "£37,701 to £125,140",
+                        "2024 to 2025": "£37,701 to £125,140",
+                        "2023 to 2024": "£37,701 to £125,140",
+                        "2022 to 2023": "£37,701 to £150,000"
+                    },
+                    "Additional rate": {
+                        "Rate": "45%",
+                        "2025 to 2026": "Over £125,141",
+                        "2024 to 2025": "Over £125,141",
+                        "2023 to 2024": "Over £125,141",
+                        "2022 to 2023": "Over £150,000"
+                    }
+                }
+            }
+        ],
+        "scotland": [
+            {
+                "title": "Scotland",
+                "data": {
+                    "Starting rate for savings": {
+                        "Rate": "0%",
+                        "2025 to 2026": "Up to £5,000",
+                        "2024 to 2025": "Up to £5,000",
+                        "2023 to 2024": "Up to £5,000",
+                        "2022 to 2023": "Up to £5,000"
+                    },
+                    "Starter rate": {
+                        "Rate": "19%",
+                        "2025 to 2026": "Up to £2,827",
+                        "2024 to 2025": "Up to £2,306",
+                        "2023 to 2024": "Up to £2,162",
+                        "2022 to 2023": "Up to £2,162"
+                    },
+                    "Basic rate": {
+                        "Rate": "20%",
+                        "2025 to 2026": "£2,828 to £14,921",
+                        "2024 to 2025": "£2,307 to £13,991",
+                        "2023 to 2024": "£2,163 to £13,118",
+                        "2022 to 2023": "£2,163 to £13,118"
+                    },
+                    "Intermediate rate": {
+                        "Rate": "21%",
+                        "2025 to 2026": "£14,922 to £31,092",
+                        "2024 to 2025": "£13,992 to £31,092",
+                        "2023 to 2024": "£13,119 to £31,092",
+                        "2022 to 2023": "£13,119 to £31,092"
+                    },
+                    "Higher rate for tax year 2025 to 2026": {
+                        "Rate": "42%",
+                        "2025 to 2026": "£31,093 to £62,430",
+                        "2024 to 2025": "£31,093 to £62,430",
+                        "2023 to 2024": "—",
+                        "2022 to 2023": "—"
+                    },
+                    "Higher rate for tax year 2023 to 2024": {
+                        "Rate": "42%",
+                        "2025 to 2026": "—",
+                        "2024 to 2025": "—",
+                        "2023 to 2024": "£31,093 to £125,140",
+                        "2022 to 2023": "—"
+                    },
+                    "Higher rate for tax years up to and including 2022 to 2023": {
+                        "Rate": "41%",
+                        "2025 to 2026": "—",
+                        "2024 to 2025": "—",
+                        "2023 to 2024": "—",
+                        "2022 to 2023": "£31,093 to £150,000"
+                    },
+                    "Advanced rate for tax years up to and including 2025 to 2026": {
+                        "Rate": "45%",
+                        "2025 to 2026": "£62,431 to £125,140",
+                        "2024 to 2025": "£62,431 to £125,140",
+                        "2023 to 2024": "—",
+                        "2022 to 2023": "—"
+                    },
+                    "Top rate for tax years up to and including 2025 to 2026": {
+                        "Rate": "48%",
+                        "2025 to 2026": "Over £125,141",
+                        "2024 to 2025": "Over £125,141",
+                        "2023 to 2024": "—",
+                        "2022 to 2023": "—"
+                    },
+                    "Top rate for tax year 2023 to 2024": {
+                        "Rate": "47%",
+                        "2025 to 2026": "—",
+                        "2024 to 2025": "—",
+                        "2023 to 2024": "Over £125,141",
+                        "2022 to 2023": "—"
+                    },
+                    "Top rate for tax years up to and including 2022 to 2023": {
+                        "Rate": "46%",
+                        "2025 to 2026": "—",
+                        "2024 to 2025": "—",
+                        "2023 to 2024": "—",
+                        "2022 to 2023": "Over £150,000"
+                    }
+                }
+            }
+        ]
+    },
+    "dividends": [
+        {
+            "title": "Dividends",
+            "data": {
+                "Basic rate (and non-taxpayers)": {
+                    "Dividend tax rates": "7.5%"
+                },
+                "Higher rate": {
+                    "Dividend tax rates": "32.5%"
+                },
+                "Additional rate (from 6 April 2013)": {
+                    "Dividend tax rates": "37.5%"
+                },
+                "Additional rate (dividends paid before 6 April 2013)": {
+                    "Dividend tax rates": "42.5%"
+                }
+            }
+        }
+    ]
+}
