@@ -1,0 +1,5 @@
+{"id":"1","title":"Phase 1: Stability \u0026 Reliability (MVP Enhancement)","status":"todo","dependencies":["5"],"created_at":"2026-04-07T15:14:09.783350284Z","doc_hash":"6f4c1884e114c61728daedb904c7a0cc1c4d2ade8262ac893a861e2b68219450"}
+{"id":"2","title":"Phase 2: Performance \u0026 Data Management","status":"todo","dependencies":["1"],"created_at":"2026-04-07T15:14:23.141647781Z","doc_hash":"5637aaec76efade6658b411ecbe405bef9c40ef2201407e86a6f96c5028e0489"}
+{"id":"3","title":"Phase 3: Extensibility \u0026 API","status":"todo","dependencies":["2"],"created_at":"2026-04-07T15:14:33.416726696Z","doc_hash":"21ea0ca96772b01268b92dbe9b3004418557cb74b170e32d90d404e7c7ae3f5d"}
+{"id":"4","title":"Phase 4: Monitoring \u0026 Future Enhancements","status":"todo","dependencies":["3"],"created_at":"2026-04-07T15:14:41.354974991Z","doc_hash":"59289eafed4748efcb6291e407d7ede132e17fed62d63760aeccae0074567f90"}
+{"id":"5","title":"Architecture Review Complete","status":"done","created_at":"2026-04-07T15:14:55.533685896Z","doc_hash":"1fb1dc7af03bd8ea3abee0b7be0d778680b3c9986a7ab80df361af43f5a5046e"}

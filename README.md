@@ -32,3 +32,34 @@ To run the tests, use the following command:
 ```bash
 npm test
 ```
+
+## Task Management
+
+This project uses **tssk** for task tracking and development workflow management.
+
+### Key Commands
+
+```bash
+tssk list              # View all tasks by status
+tssk show <id>         # View full task details
+tssk add -t "Title"    # Create a new task
+tssk status <id> <status>  # Update task status (todo, in-progress, done, blocked)
+tssk deps add <id> <dep-id>  # Add task dependency
+```
+
+### Task Statuses
+
+- `todo` - Ready to work on
+- `in-progress` - Currently being worked on
+- `done` - Completed
+- `blocked` - Cannot proceed due to external factors
+
+### Viewing Project Roadmap
+
+To see the current development roadmap and task backlog:
+
+```bash
+tssk list
+```
+
+Tasks are organized by development phases with clear dependencies. Check individual task details with `tssk show <id>` for full descriptions and acceptance criteria.
